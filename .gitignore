@@ -1,3 +1,7 @@
+## Project
+api-key.json
+log.txt
+
 ## VSCode
 .vscode/*
 !.vscode/settings.json
