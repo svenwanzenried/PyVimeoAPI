@@ -1,6 +1,6 @@
 ## Project
-api-key.json
-log.txt
+secrets.json
+log*.txt
 
 ## VSCode
 .vscode/*
