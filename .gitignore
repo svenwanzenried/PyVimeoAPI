@@ -1,6 +1,7 @@
 ## Project
 secrets.json
 log*.txt
+local/*
 
 ## VSCode
 .vscode/*
