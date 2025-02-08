@@ -2,6 +2,10 @@
 secrets.json
 log*.txt
 local/*
+*.csv
+*.txt
+experimenting/*
+*.yapf
 
 ## VSCode
 .vscode/*
